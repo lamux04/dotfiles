@@ -1,0 +1,21 @@
+# GIMP action-history
+
+(history-item "file-export-as" 3)
+(history-item "image-scale" 2)
+(history-item "file-quit" 1)
+(history-item "file-open" 4)
+(history-item "edit-clear" 4)
+(history-item "select-none" 0)
+(history-item "edit-copy" 1)
+(history-item "edit-paste-as-new-image-short" 0)
+(history-item "file-save-as" 1)
+(history-item "image-resize" 0)
+(history-item "file-create-template" 1)
+(history-item "file-copy-location" 0)
+(history-item "dialogs-toolbox" 0)
+(history-item "select-all" 0)
+(history-item "dialogs-selection-editor" 0)
+(history-item "file-open-recent-01" 0)
+(history-item "select-stroke" 1)
+
+# end of action-history

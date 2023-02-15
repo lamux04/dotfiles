@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/lamux/.config/i3/config" added="2023-02-01T12:45:03.662255Z" modified="2023-02-01T15:42:14.626126Z" visited="2023-02-01T12:45:03.662258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T12:45:03.980550Z" count="2"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-02-01T15:42:14.626124Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/wallpapers/baby-yoda.jpg" added="2023-02-01T13:34:51.124336Z" modified="2023-02-01T13:34:51.124355Z" visited="2023-02-01T13:34:51.124339Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T13:34:51.124346Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/baby-yoda-el-mandaloriano_3840x2160_xtrafondos.com.jpg" added="2023-02-01T13:34:58.602902Z" modified="2023-02-01T13:34:58.887405Z" visited="2023-02-01T13:34:58.602904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T13:34:58.887402Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/.screenlayout/dual" added="2023-02-01T13:46:06.387784Z" modified="2023-02-01T13:46:06.387796Z" visited="2023-02-01T13:46:06.387786Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2023-02-01T13:46:06.387790Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/.screenlayout/portatil" added="2023-02-01T13:46:41.505017Z" modified="2023-02-01T13:46:41.505020Z" visited="2023-02-01T13:46:41.505018Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2023-02-01T13:46:41.505019Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/.screenlayout/monitor" added="2023-02-01T13:47:19.991703Z" modified="2023-02-01T13:47:19.991706Z" visited="2023-02-01T13:47:19.991704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2023-02-01T13:47:19.991705Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/volantes-cursors.tar.gz" added="2023-02-01T16:55:51.915270Z" modified="2023-02-01T16:55:52.570243Z" visited="2023-02-01T16:55:51.915271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T16:55:52.570239Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/CascadiaCode.zip" added="2023-02-01T19:25:56.591179Z" modified="2023-02-01T19:26:07.278553Z" visited="2023-02-01T19:25:56.591180Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T19:26:07.278551Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/JetBrainsMono.zip" added="2023-02-01T19:26:52.787366Z" modified="2023-02-01T19:27:12.681563Z" visited="2023-02-01T19:26:52.787367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T19:27:12.681561Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/Mononoki.zip" added="2023-02-01T19:27:11.446634Z" modified="2023-02-01T19:27:13.379638Z" visited="2023-02-01T19:27:11.446638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T19:27:13.379635Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/.alacritty.yml" added="2023-02-01T19:46:56.496556Z" modified="2023-02-01T19:46:56.496573Z" visited="2023-02-01T19:46:56.496558Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T19:46:56.496565Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/alacritty.yml" added="2023-02-01T19:46:56.794936Z" modified="2023-02-01T19:46:56.794943Z" visited="2023-02-01T19:46:56.794937Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T19:46:56.794940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/2023-02-01-212736_106x91_scrot.png" added="2023-02-01T20:27:52.354705Z" modified="2023-02-01T20:27:52.354708Z" visited="2023-02-01T20:27:52.354706Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T20:27:52.354707Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Im%C3%A1genes/logo.png" added="2023-02-01T20:28:58.474658Z" modified="2023-02-01T20:28:58.766881Z" visited="2023-02-01T20:28:58.474661Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-01T20:28:58.766878Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/logo.jpg" added="2023-02-02T13:26:43.477735Z" modified="2023-02-02T13:26:43.778006Z" visited="2023-02-02T13:26:43.477736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-02T13:26:43.777991Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/Graphite-Dark.tar.xz" added="2023-02-02T13:29:33.700177Z" modified="2023-02-02T13:29:34.100955Z" visited="2023-02-02T13:29:33.700178Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-02T13:29:34.100951Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/arch-1080p.zip" added="2023-02-02T21:02:59.937082Z" modified="2023-02-02T21:03:00.246578Z" visited="2023-02-02T21:02:59.937083Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-02T21:03:00.246576Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/Atomic-GRUB-Theme.tar.tar" added="2023-02-02T21:05:56.331508Z" modified="2023-02-02T21:05:56.840089Z" visited="2023-02-02T21:05:56.331509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-02T21:05:56.840087Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/.config/i3" added="2023-02-03T09:15:47.818935Z" modified="2023-02-03T09:15:47.818937Z" visited="2023-02-03T09:15:47.818935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-02-03T09:15:47.818936Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/tmp-299125nM6CeZGiIoC.png" added="2023-02-03T10:16:53.549109Z" modified="2023-02-03T10:16:53.549113Z" visited="2023-02-03T10:16:53.549110Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-03T10:16:53.549112Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/tmp-299125nM6CeZGiIoC.png" added="2023-02-03T10:19:29.098211Z" modified="2023-02-03T10:19:32.385855Z" visited="2023-02-03T10:19:29.098212Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-03T10:19:29.098213Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-03T10:19:32.385853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio" added="2023-02-03T11:06:17.046172Z" modified="2023-02-06T17:11:15.069888Z" visited="2023-02-03T11:06:17.046174Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-02-06T17:11:15.069887Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/untitled_page.png" added="2023-02-03T11:06:51.702972Z" modified="2023-02-03T11:06:51.702977Z" visited="2023-02-03T11:06:51.702973Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-03T11:06:51.702975Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/design.png" added="2023-02-03T11:07:21.117120Z" modified="2023-02-03T11:07:21.422322Z" visited="2023-02-03T11:07:21.117123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-03T11:07:21.422318Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/Untitled.epgz" added="2023-02-03T11:08:10.099556Z" modified="2023-02-03T11:08:10.099571Z" visited="2023-02-03T11:08:10.099558Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-02-03T11:08:10.099563Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/about-img.png" added="2023-02-03T18:01:22.858738Z" modified="2023-02-03T18:41:23.339635Z" visited="2023-02-03T18:01:22.858739Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-03T18:01:23.186741Z" count="2"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-03T18:41:23.023655Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-03T18:41:23.339632Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/darth-vader-personaje-de-la-serie-de-peliculas-de-star-wars-d86kmh.jpg" added="2023-02-03T18:23:43.569553Z" modified="2023-02-03T18:50:55.371186Z" visited="2023-02-03T18:23:43.569554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-03T18:23:43.859197Z" count="2"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-03T18:50:55.201164Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-03T18:50:55.371185Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/luca-bravo-XJXWbfSo2f0-unsplash.jpg" added="2023-02-03T18:38:13.686418Z" modified="2023-02-03T18:38:58.403848Z" visited="2023-02-03T18:38:13.686419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-03T18:38:14.135508Z" count="2"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-03T18:38:49.501743Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-03T18:38:58.403845Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/about-img_200.png" added="2023-02-03T18:42:25.226837Z" modified="2023-02-03T18:42:28.339268Z" visited="2023-02-03T18:42:25.226838Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-03T18:42:25.226839Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-03T18:42:28.339266Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/darth-vader_250.jpg" added="2023-02-03T18:51:31.452588Z" modified="2023-02-03T18:51:33.838427Z" visited="2023-02-03T18:51:31.452589Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-03T18:51:31.452593Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-03T18:51:33.838425Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/index.html" added="2023-02-03T18:56:42.495074Z" modified="2023-02-03T18:56:42.495077Z" visited="2023-02-03T18:56:42.495075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-03T18:56:42.495076Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/sergey-zigle-rQ4_6TSliRg-unsplash.jpg" added="2023-02-05T12:19:35.183655Z" modified="2023-02-05T12:20:21.169193Z" visited="2023-02-05T12:19:35.183657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-05T12:19:35.690325Z" count="2"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T12:20:16.368502Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T12:20:21.169191Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/inicio_1280x300.png" added="2023-02-05T12:31:22.872196Z" modified="2023-02-05T12:35:51.493193Z" visited="2023-02-05T12:31:22.872196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T12:35:48.664034Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T12:35:51.493190Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/IMG_20220528_015804_877.jpg" added="2023-02-05T14:39:58.313210Z" modified="2023-02-05T16:49:07.882355Z" visited="2023-02-05T14:39:58.313210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-05T14:39:58.313210Z" count="1"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T16:49:07.672024Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T16:49:07.882354Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/vecteezy_collection-of-popular-social-media-icons-facebook_9911495.jpg" added="2023-02-05T14:47:39.952635Z" modified="2023-02-05T15:15:37.941360Z" visited="2023-02-05T14:47:39.952635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-05T14:47:39.952636Z" count="1"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T15:07:32.030599Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T15:07:32.216676Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-05T15:15:37.941358Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/vecteezy_collection-of-popular-social-media-icons-facebook_9911495.png" added="2023-02-05T15:10:55.495226Z" modified="2023-02-05T15:14:33.622565Z" visited="2023-02-05T15:10:55.495226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T15:10:55.495227Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T15:11:01.893181Z" count="1"/>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-05T15:11:18.652519Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-05T15:14:33.622563Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/redes_sociales.png" added="2023-02-05T15:16:05.927095Z" modified="2023-02-05T15:16:54.017721Z" visited="2023-02-05T15:16:05.927098Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-05T15:16:06.243836Z" count="2"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T15:16:53.767184Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T15:16:54.017719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/redes_sociales.png" added="2023-02-05T15:17:29.437063Z" modified="2023-02-05T16:11:40.138903Z" visited="2023-02-05T15:17:29.437064Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T16:11:39.957029Z" count="3"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T16:11:40.138902Z" count="3"/>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-05T15:32:37.542669Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/firma-formal.png" added="2023-02-05T15:20:38.761712Z" modified="2023-02-05T15:20:38.761716Z" visited="2023-02-05T15:20:38.761713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-05T15:20:38.761714Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-electronicas/images/firma-formal.png" added="2023-02-05T15:24:28.132798Z" modified="2023-02-05T15:24:28.655986Z" visited="2023-02-05T15:24:28.132812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-05T15:24:28.655982Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/star-wars.jpg" added="2023-02-05T15:25:53.772555Z" modified="2023-02-05T16:08:12.315537Z" visited="2023-02-05T15:25:53.772557Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-05T15:25:54.122306Z" count="2"/>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-05T15:26:22.810130Z" count="4"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T16:08:10.599985Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T16:08:12.315536Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/star-wars_recortada.jpg" added="2023-02-05T15:29:31.827505Z" modified="2023-02-05T15:29:39.370153Z" visited="2023-02-05T15:29:31.827506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T15:29:31.827510Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T15:29:33.326352Z" count="1"/>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-05T15:29:39.370152Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-electronicas/images/firma-informal.png" added="2023-02-05T15:34:06.106511Z" modified="2023-02-05T15:34:06.636346Z" visited="2023-02-05T15:34:06.106512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-05T15:34:06.636345Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-electronicas" added="2023-02-05T15:34:57.003759Z" modified="2023-02-05T15:34:57.003762Z" visited="2023-02-05T15:34:57.003760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-02-05T15:34:57.003761Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-electronicas/images/star-wars_700x300.png" added="2023-02-05T16:10:15.436784Z" modified="2023-02-05T16:48:30.534838Z" visited="2023-02-05T16:10:15.436785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T16:48:28.904211Z" count="3"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T16:48:30.534837Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-electronicas/images/instagram.png" added="2023-02-05T16:18:59.350016Z" modified="2023-02-05T16:31:36.270156Z" visited="2023-02-05T16:18:59.350017Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T16:31:34.953380Z" count="3"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T16:31:36.270155Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-electronicas/images/facebook.png" added="2023-02-05T16:19:25.152437Z" modified="2023-02-05T16:31:51.137532Z" visited="2023-02-05T16:19:25.152438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T16:31:49.877814Z" count="3"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T16:31:51.137531Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-electronicas/images/twitter.png" added="2023-02-05T16:19:45.847594Z" modified="2023-02-05T16:31:06.111538Z" visited="2023-02-05T16:19:45.847596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T16:31:04.640629Z" count="4"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T16:31:06.111537Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/linkedin.jpg" added="2023-02-05T16:21:09.817996Z" modified="2023-02-05T16:21:17.599682Z" visited="2023-02-05T16:21:09.818000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/heif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-05T16:21:10.134827Z" count="2"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T16:21:17.413759Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T16:21:17.599681Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-electronicas/images/linkedin.png" added="2023-02-05T16:21:57.249117Z" modified="2023-02-05T16:31:22.554645Z" visited="2023-02-05T16:21:57.249117Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T16:31:21.097689Z" count="3"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T16:31:22.554643Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-electronicas/images/mi-imagen_250x250.jpg" added="2023-02-05T16:50:34.257013Z" modified="2023-02-05T16:50:35.932855Z" visited="2023-02-05T16:50:34.257015Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-05T16:50:34.257019Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-05T16:50:35.932853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-correos.zip" added="2023-02-05T17:40:08.818977Z" modified="2023-02-05T17:40:08.818981Z" visited="2023-02-05T17:40:08.818978Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-05T17:40:08.818979Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/curso-git" added="2023-02-05T19:57:26.304288Z" modified="2023-02-07T17:45:32.393221Z" visited="2023-02-05T19:57:26.304289Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-02-07T17:45:32.393219Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/curso-git/img/Git-Icon-1788C.png" added="2023-02-05T20:02:06.275637Z" modified="2023-02-05T20:02:06.599858Z" visited="2023-02-05T20:02:06.275638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-05T20:02:06.599732Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/eYGr2WDlRbqsXfQtc1ff_firmas-correos.zip" added="2023-02-06T15:26:44.006645Z" modified="2023-02-06T15:26:44.309371Z" visited="2023-02-06T15:26:44.006646Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-06T15:26:44.309367Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/firmas-correos" added="2023-02-06T15:32:01.936132Z" modified="2023-02-06T15:32:01.936142Z" visited="2023-02-06T15:32:01.936134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-02-06T15:32:01.936137Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects" added="2023-02-08T08:01:57.380094Z" modified="2023-02-15T19:51:52.573717Z" visited="2023-02-08T08:01:57.380095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-02-15T19:51:52.573715Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/cascos.png" added="2023-02-08T11:35:49.058226Z" modified="2023-02-08T11:35:49.351042Z" visited="2023-02-08T11:35:49.058227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-08T11:35:49.351034Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/FFEI%20Tema%201%20Ejemplo%203.pdf" added="2023-02-09T11:01:44.359011Z" modified="2023-02-09T11:01:44.359019Z" visited="2023-02-09T11:01:44.359013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-09T11:01:44.359016Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/imagen_portfolio.png" added="2023-02-09T18:41:57.508856Z" modified="2023-02-09T18:41:57.809541Z" visited="2023-02-09T18:41:57.508857Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-09T18:41:57.809539Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/free-Proyecto-diseno-modular.zip" added="2023-02-10T12:07:03.656856Z" modified="2023-02-10T12:07:03.954702Z" visited="2023-02-10T12:07:03.656859Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-10T12:07:03.954699Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/doku.pub_diseo-de-programas-formalismo-y-abstraccion-2da-edicion-ricardo-pea-maripdf.pdf" added="2023-02-10T18:23:19.324160Z" modified="2023-02-10T18:23:19.324165Z" visited="2023-02-10T18:23:19.324161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-10T18:23:19.324163Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/images/upv.jpg" added="2023-02-11T17:52:49.223436Z" modified="2023-02-11T17:52:49.541487Z" visited="2023-02-11T17:52:49.223438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-11T17:52:49.541485Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/media/intro_mastermind.mp4" added="2023-02-12T11:51:12.058463Z" modified="2023-02-12T11:51:13.264573Z" visited="2023-02-12T11:51:12.058466Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-12T11:51:13.264572Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/media/intro_mastermindv2.mp4" added="2023-02-12T11:51:29.720406Z" modified="2023-02-12T11:51:30.028082Z" visited="2023-02-12T11:51:29.720407Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-12T11:51:30.028079Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/portafolio/media/portfolio_media_intro_mastermindv2.webm" added="2023-02-12T11:51:46.193327Z" modified="2023-02-12T11:51:46.472375Z" visited="2023-02-12T11:51:46.193328Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/webm"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-12T11:51:46.472372Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/producto-venta/images/fernando-alvarez-rodriguez-M7GddPqJowg-unsplash.jpg" added="2023-02-12T12:43:30.363893Z" modified="2023-02-12T12:48:30.640122Z" visited="2023-02-12T12:43:30.363895Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-12T12:43:30.674278Z" count="2"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-12T12:48:28.797991Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-12T12:48:30.640121Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/producto-venta/images/inicio.png" added="2023-02-12T12:52:24.192013Z" modified="2023-02-12T12:54:29.374466Z" visited="2023-02-12T12:52:24.192014Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-12T12:53:56.004899Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-12T12:54:00.779984Z" count="2"/>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-12T12:54:29.374465Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/producto-venta/images/piscina.jpg" added="2023-02-12T12:57:37.665388Z" modified="2023-02-12T12:58:27.429000Z" visited="2023-02-12T12:57:37.665391Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-12T12:57:37.963712Z" count="2"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-12T12:58:18.585077Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-12T12:58:19.989092Z" count="2"/>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-12T12:58:27.428999Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/producto-venta/images/piscina-alargada.jpg" added="2023-02-12T13:01:16.507398Z" modified="2023-02-12T13:01:38.856746Z" visited="2023-02-12T13:01:16.507399Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2023-02-12T13:01:16.507400Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-02-12T13:01:18.100247Z" count="1"/>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-12T13:01:38.856745Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/producto-venta/images/mockap.png" added="2023-02-12T13:14:54.589613Z" modified="2023-02-12T13:14:56.164433Z" visited="2023-02-12T13:14:54.589613Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2023-02-12T13:14:56.164432Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/projects/producto-venta/images/logo.png" added="2023-02-12T13:16:36.280556Z" modified="2023-02-12T13:16:36.559429Z" visited="2023-02-12T13:16:36.280559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-12T13:16:36.559425Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/Notas_febrero_22_23_7puntos.xlsx%20-%20Calificaciones.pdf" added="2023-02-12T21:45:02.859733Z" modified="2023-02-12T21:45:02.859738Z" visited="2023-02-12T21:45:02.859734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-12T21:45:02.859735Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/Notas_febrero_22_23_10puntos.xlsx%20-%20Calificaciones.pdf" added="2023-02-12T21:45:30.253971Z" modified="2023-02-12T21:45:30.253977Z" visited="2023-02-12T21:45:30.253972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-12T21:45:30.253974Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/mastermind-js-master.zip" added="2023-02-14T18:53:21.301426Z" modified="2023-02-14T18:53:21.592017Z" visited="2023-02-14T18:53:21.301426Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-14T18:53:21.592014Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux/Descargas/curso-git" added="2023-02-14T19:01:53.375902Z" modified="2023-02-14T19:01:53.375905Z" visited="2023-02-14T19:01:53.375903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-02-14T19:01:53.375904Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lamux" added="2023-02-15T19:02:24.503059Z" modified="2023-02-15T19:02:24.503061Z" visited="2023-02-15T19:02:24.503059Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-02-15T19:02:24.503060Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

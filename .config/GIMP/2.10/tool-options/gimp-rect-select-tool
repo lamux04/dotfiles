@@ -1,0 +1,12 @@
+# GIMP gimp-rect-select-tool options
+
+(aspect-denominator 300)
+(aspect-numerator 1280)
+(desired-fixed-size-height 300)
+(desired-fixed-size-width 1280)
+(fixed-rule size)
+(fixed-rule-active yes)
+(overridden-fixed-aspect yes)
+(overridden-fixed-size yes)
+
+# end of gimp-rect-select-tool options

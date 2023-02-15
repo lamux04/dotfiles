@@ -1,0 +1,6 @@
+2023/02/05-16:56:59.890 56b9 Reusing MANIFEST /home/lamux/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/02/05-16:56:59.890 56b9 Recovering log #4
+2023/02/05-16:56:59.891 56b9 Reusing old log /home/lamux/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
+2023/02/05-16:57:00.526 56ad Level-0 table #8: started
+2023/02/05-16:57:00.531 56ad Level-0 table #8: 101711 bytes OK
+2023/02/05-16:57:00.533 56ad Delete type=0 #4

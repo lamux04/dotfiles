@@ -1,0 +1,10 @@
+[Trace 19:51:58.981] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/lamux/projects/curso-git/guia.md
+[Trace 19:51:58.982] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lamux/projects/curso-git/guia.md
+[Trace 19:51:58.983] Server: connection.languages.diagnostics.on: file:///home/lamux/projects/curso-git/guia.md
+[Trace 19:51:58.985] Server: connection.languages.diagnostics.on: file:///home/lamux/projects/curso-git/guia.md
+[Trace 19:51:59.006] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lamux/projects/curso-git/guia.md 1
+[Debug 19:51:59.007] LinkProvider: compute - file:///home/lamux/projects/curso-git/guia.md
+[Debug 19:51:59.106] TableOfContentsProvider: create - file:///home/lamux/projects/curso-git/guia.md
+[Debug 19:51:59.186] MdFoldingProvider: provideFoldingRanges — file:///home/lamux/projects/curso-git/guia.md 1
+[Trace 19:52:00.533] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/lamux/projects/curso-git/guia.md
+[Trace 19:52:00.533] VsCodeClientWorkspace: deleteDocument: file:///home/lamux/projects/curso-git/guia.md
